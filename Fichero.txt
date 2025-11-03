@@ -7,3 +7,12 @@ Tercera modificación
 >>>>>>> b24fade (Tercera modificación)
 
 Cuarta modificación
+<<<<<<< HEAD
+=======
+
+Quinta modificación
+
+Sexta modificación
+
+Séptima modificación
+>>>>>>> 9a185a0 (Séptima modif)
