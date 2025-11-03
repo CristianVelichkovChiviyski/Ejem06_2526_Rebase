@@ -1,1 +1,7 @@
 Primera modificación
+<<<<<<< HEAD
+=======
+Segunda modificación
+
+Tercera modificación
+>>>>>>> b24fade (Tercera modificación)
